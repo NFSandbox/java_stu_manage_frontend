@@ -1,5 +1,7 @@
 # java_stu_manage_frontend
 
+- Identification Code: `7ce171f5145d819ddf4ab634a91082cac51fbb691a8888fd7f56c4e387b5fc64`
+
 First of all please check out the screenshot of this project.
 
 ![image](https://github.com/NFSandbox/java_stu_manage_frontend/assets/61616918/feaca854-1830-4a53-b1b1-6d8607a9ad2d)
